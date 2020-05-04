@@ -23,5 +23,5 @@ Step4:
 Run the twittergraph.py for visualisation of your output.
 
 Step5:
-If you want to check against random tweets, you can paste your tweet in the test.py file to check the sentiment.
+If you want to check the sentiment against random tweets, you can paste your tweet in the test.py file to check the sentiment.
 
