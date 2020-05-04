@@ -11,7 +11,7 @@ tweepy
 How to Run the code:
 
 Step1:
-First Create a pickled_algos folder where all your code is saved.
+First Create a pickled_algos folder in the same location where all your code is saved.
 
 Step2:
 Run the main.py file. It will train your module against the dataset and give you accuracy for all the classifiers used.
