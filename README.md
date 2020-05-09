@@ -2,10 +2,10 @@
 Sentiment analysis using nltk & scikit-learn(Naive Bayes, MultinomialNB, BernoulliNB, LogisticRegression, LinearSVC)
 
 Requirements:
-nltk
-scikit-learn
-matplotlib
-tweepy
+nltk,
+scikit-learn,
+matplotlib,
+tweepy.
 
 
 How to Run the code:
