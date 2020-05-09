@@ -23,7 +23,7 @@ def animate(i):
         if "positive" in l:
             y += 1
         elif "negative" in l:
-            y -= 0.5
+            y -= 1
 
         xar.append(x)
         yar.append(y)
