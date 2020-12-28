@@ -11,7 +11,7 @@ scikit-learn,
 matplotlib,
 tweepy.
 
-## How to Run the code:
+## Steps to run the code:
 
 Step1:
 First Create a pickled_algos folder in the same location where all your code is saved.
