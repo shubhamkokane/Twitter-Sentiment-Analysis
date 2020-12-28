@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis
 
-## Description
+## Description:
 
 Sentiment analysis using nltk & scikit-learn(Naive Bayes, MultinomialNB, BernoulliNB, LogisticRegression, LinearSVC)
 
